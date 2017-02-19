@@ -20,5 +20,6 @@ int second_func(char, char){
 	int wnd = 110;
 	printf("test version 1.0 !!\n");
 	printf("test version 2.0 !! \n");
+	printf("test test !!\n");
 	return 0;
 }

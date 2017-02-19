@@ -19,3 +19,5 @@ seconde test branch add !!
 실험2 브렌치 추가 !!
 
 실험 3 브렌치 추가 !!
+
+main 함수 수정 !!
