@@ -5,3 +5,7 @@ version 1.0
 test version 1.0
 
  : second func 정의
+
+test version 2.0
+
+ : printf() 추가
