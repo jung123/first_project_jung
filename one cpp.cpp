@@ -9,8 +9,15 @@ int main(){
 	return 0;
 }
 
+<<<<<<< HEAD
 int first_func(int, int){
 	int wnd = 10;
 	printf(" master !!\n");
 	printf("version 2.0 !! \n");
+=======
+int second_func(char, char){
+	int wnd = 110;
+	printf("test version 1.0 !!\n");
+	printf("test version 2.0 !! \n");
+>>>>>>> 실험
 }
