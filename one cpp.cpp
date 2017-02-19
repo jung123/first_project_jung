@@ -12,4 +12,5 @@ int main(){
 int first_func(int, int){
 	int wnd = 10;
 	printf(" master !!\n");
+	printf("version 2.0 !! \n");
 }
