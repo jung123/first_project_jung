@@ -7,6 +7,7 @@ int second_func(char, char);
 int main(){
 	printf("default !! \n");
 	printf("충돌충돌 !! \n");
+	printf("??? !!\n");
 	return 0;
 }
 
