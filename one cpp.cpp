@@ -8,3 +8,8 @@ int main(){
 	printf("default !! \n");
 	return 0;
 }
+
+int first_func(int, int){
+	int wnd = 10;
+	printf(" master !!\n");
+}
