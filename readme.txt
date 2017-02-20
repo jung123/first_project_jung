@@ -21,3 +21,5 @@ seconde test branch add !!
 실험 3 브렌치 추가 !!
 
 main 함수 수정 !!
+
+github에 올림 !!
